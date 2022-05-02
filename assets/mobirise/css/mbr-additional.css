@@ -1483,7 +1483,7 @@ a {
 }
 .cid-t4Cnw9EUsL {
   padding-top: 3rem;
-  padding-bottom: 6rem;
+  padding-bottom: 2rem;
   background-image: url("../../../assets/images/mbr.png");
 }
 .cid-t4Cnw9EUsL .mbr-overlay {
@@ -1493,6 +1493,9 @@ a {
 .cid-t4Cnw9EUsL img,
 .cid-t4Cnw9EUsL .item-img {
   width: 100%;
+  height: 100%;
+  height: 300px;
+  object-fit: cover;
 }
 .cid-t4Cnw9EUsL .item:focus,
 .cid-t4Cnw9EUsL span:focus {
