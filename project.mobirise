@@ -59,8 +59,10 @@
     "witsec-white-label": true,
     "usedWebp": false,
     "witsec-search": true,
+    "publishType": "local",
     "witsec-search-excluded-sections": "",
-    "witsec-search-excluded-pages": "404.html"
+    "witsec-search-excluded-pages": "404.html",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
